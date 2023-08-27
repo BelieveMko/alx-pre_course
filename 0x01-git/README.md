@@ -1,1 +1,1 @@
-My first readme
+These are the tasks for git project
